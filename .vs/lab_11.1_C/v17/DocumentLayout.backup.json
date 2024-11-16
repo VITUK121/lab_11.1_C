@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VITUK\\source\\repos\\lab_11.1_C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CED4F05-ECDA-42AD-A7CF-46C4022BED96}|UnitTest_11.1_C\\UnitTest_11.1_C.vcxproj|C:\\Users\\VITUK\\source\\repos\\lab_11.1_C\\UnitTest_11.1_C\\UnitTest_11.1_C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4CED4F05-ECDA-42AD-A7CF-46C4022BED96}|UnitTest_11.1_C\\UnitTest_11.1_C.vcxproj|solutionrelative:UnitTest_11.1_C\\UnitTest_11.1_C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC9E93C-1C31-42E3-A220-078E8F4C3203}|lab_11.1_C\\lab_11.1_C.vcxproj|C:\\Users\\VITUK\\source\\repos\\lab_11.1_C\\lab_11.1_C\\lab_11.1_C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAC9E93C-1C31-42E3-A220-078E8F4C3203}|lab_11.1_C\\lab_11.1_C.vcxproj|solutionrelative:lab_11.1_C\\lab_11.1_C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 515,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest_11.1_C.cpp",
+              "DocumentMoniker": "C:\\Users\\VITUK\\source\\repos\\lab_11.1_C\\UnitTest_11.1_C\\UnitTest_11.1_C.cpp",
+              "RelativeDocumentMoniker": "UnitTest_11.1_C\\UnitTest_11.1_C.cpp",
+              "ToolTip": "C:\\Users\\VITUK\\source\\repos\\lab_11.1_C\\UnitTest_11.1_C\\UnitTest_11.1_C.cpp",
+              "RelativeToolTip": "UnitTest_11.1_C\\UnitTest_11.1_C.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T11:47:56.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab_11.1_C.cpp",
+              "DocumentMoniker": "C:\\Users\\VITUK\\source\\repos\\lab_11.1_C\\lab_11.1_C\\lab_11.1_C.cpp",
+              "RelativeDocumentMoniker": "lab_11.1_C\\lab_11.1_C.cpp",
+              "ToolTip": "C:\\Users\\VITUK\\source\\repos\\lab_11.1_C\\lab_11.1_C\\lab_11.1_C.cpp",
+              "RelativeToolTip": "lab_11.1_C\\lab_11.1_C.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T07:29:23.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
